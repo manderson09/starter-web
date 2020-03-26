@@ -5,7 +5,7 @@
 
     Marquise Andeson
     Marquiseanderson97@yahoo.com
-    DevOps Engineer
+    DevOps 
 
 # THANKS
 
@@ -14,4 +14,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular,AJA
-    jQuery, Modernizr
+    jQuery, Modernizr, Docker, Java Programming
