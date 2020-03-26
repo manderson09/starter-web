@@ -5,7 +5,7 @@
 
     Marquise Andeson
     Marquiseanderson97@yahoo.com
-    DevOps Engineer
+    DevOps 
 
 # THANKS
 
@@ -13,5 +13,7 @@
 
 # TECHNOLOGY COLOPHON
 
+
     HTML5, CSS3, Angular,Machine Learning, AWS, GG
     jQuery, Modernizr
+
