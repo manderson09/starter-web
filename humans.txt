@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name>Marquise Anderson <role> -- <twitter>
+    Marquise Andeson
+    Marquiseanderson97@yahoo.com
+    DevOps Engineer
 
 # THANKS
 
