@@ -13,5 +13,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular,AJA
+    HTML5, CSS3, Angular,Machine Learning, AWS, GG
     jQuery, Modernizr
