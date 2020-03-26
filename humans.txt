@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>Marquise Anderson <role> -- <twitter>
 
 # THANKS
 
