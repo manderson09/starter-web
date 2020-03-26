@@ -10,7 +10,7 @@ Sample website with plenty of files for demos\\
 
 ## GIT COMPARISON
 Adding Git Comparison lecture
-Adding GIt Rebase Lectures in 
+Adding GIt Rebase Lectures in GIT Advance part. 
 #### Contribution
  Fork the Repor and raise pull request for review
 
