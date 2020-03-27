@@ -16,3 +16,4 @@ Adding GIt Rebase Lectures in GIT Advance part.
 
 ##GitHub COntent
 Comparison with Repo
+Addding new lectures to course
